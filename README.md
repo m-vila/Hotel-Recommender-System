@@ -7,5 +7,3 @@ My main goals were:
 2) To find the best hotels to plan my next trip
 
 I found [a great dataset in kaggle](https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe) from 2017 containing 515K customer reviews of almost 15K luxury hotels from Booking.com and built the recommender system from that new dataset.
-
-* I haven't been unable to upload the original .csv since it is prety heavy.
